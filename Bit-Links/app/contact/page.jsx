@@ -14,7 +14,7 @@ const ContactUs = () => {
               Contact Us
             </h1>
             <p className='text-lg text-gray-600'>
-              Have questions or feedback? We'd love to hear from you. Our team is ready to help with any inquiries about BitLinks.
+              Have questions or feedback? We had love to hear from you. Our team is ready to help with any inquiries about BitLinks.
             </p>
             <div className='mt-2 space-y-4'>
               <div className='flex items-center gap-3'>
